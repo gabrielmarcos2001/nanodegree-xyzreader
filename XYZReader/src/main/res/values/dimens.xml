@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- detail -->
+    <dimen name="detail_title_text_size">24sp</dimen>
+    <dimen name="detail_body_text_size">18sp</dimen>
+    <dimen name="detail_image_height">400dp</dimen>
+    <dimen name="detail_photo_protection_height">112dp</dimen>
+
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="fab_press_translation_z">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="back_button_width">56dp</dimen>
+
+    <!-- Article -->
+    <dimen name="article_item_margin">4dp</dimen>
+    <dimen name="article_item_padding">16dp</dimen>
+    <dimen name="article_item_image_height">100dp</dimen>
+    <dimen name="article_item_title_text_size">16sp</dimen>
+    <dimen name="article_item_subtitle_text_size">14sp</dimen>
+
+</resources>
