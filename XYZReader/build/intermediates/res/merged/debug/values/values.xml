@@ -257,7 +257,7 @@
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <dimen name="fab_elevation">4dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="fab_press_translation_z">8dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
